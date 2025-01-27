@@ -1,10 +1,13 @@
 Power BI Report: Resource Management Dashboard
+--
+
 
 This Power BI report provides a comprehensive overview of resource allocation and project management, enabling effective decision-making and enhanced productivity. Below is a detailed explanation of the components included in this dashboard.
 ![Alt text](./power-bi-wide.jpg)
 
 
 Key Features
+--
 
 KPI Metrics
 
