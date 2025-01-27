@@ -10,12 +10,13 @@ Key Features
 --
 
 KPI Metrics
+--
 
-Displays total hours (e.g., committed work, requested work, and availability) in a gauge chart for quick assessment.
+* Displays total hours (e.g., committed work, requested work, and availability) in a gauge chart for quick assessment.
 
-Resource Pool Distribution
+* Resource Pool Distribution
 
-Pie charts categorize resources based on key departments such as Finance, HR, Procurement, and IT, providing insights into resource allocation.
+* Pie charts categorize resources based on key departments such as Finance, HR, Procurement, and IT, providing insights into resource allocation.
 
 Timeline Analysis
 
